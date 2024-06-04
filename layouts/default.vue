@@ -9,19 +9,19 @@
             <nav class="flex justify-between w-full overflow-x-auto">
                 <ul class="flex justify-start">
                     <li>
-                        <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="#about">About Us</a>
+                        <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="#about">tentang Kami</a>
                     </li>
                     <li>
-                        <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="#speakers-talk">Leasson</a>
+                        <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="#speakers-talk">Pelajaran</a>
                     </li>
                     <li>
                         <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="#speakers-music">Testimonial</a>
                     </li>
                     <li>
-                        <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="#" target="_blank">Teacher</a>
+                        <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="#" target="_blank">Tutor</a>
                     </li>
                     <li>
-                        <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="/gallery">Gallery</a>
+                        <a class="block px-6 py-6 transition whitespace-nowrap hover:text-indigo-500" href="/gallery">Galery</a>
                     </li>
                     <!-- <li>
                         <div class="block px-6 py-6 text-gray-400 transition cursor-not-allowed whitespace-nowrap">Testimoni</div>
