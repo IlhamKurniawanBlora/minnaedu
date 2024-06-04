@@ -7,25 +7,25 @@
 
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 text-center  ">
         <div class="max-w-2xl mx-auto text-center">
-            <h2 class="text-2xl font-light text-black sm:text-4xl sm:leading-tight">What Do We Teach?
+            <h2 class="text-2xl font-light text-black sm:text-4xl sm:leading-tight">Apa yang Kami Ajarkan?
             </h2>
         </div>
 
         <div class=" grid items-center max-w-4xl grid-cols-2 gap-4 mx-auto mt-12 md:mt-20 md:grid-cols-4  ">
             <div class="bg-white h-12 flex shadow-lg items-center justify-center hover:bg-slate-400 hover:text-gray-200 duration-300 ease in transition-all rounded-lg cursor-pointer text-gray-500 py-8">
-                <h1 class="text-xl font-semibold tracking-wide">Mathematics</h1>
+                <h1 class="text-xl font-semibold tracking-wide">Matematika</h1>
             </div>
             <div class="bg-white h-12 flex shadow-lg items-center justify-center hover:bg-slate-400 hover:text-gray-200 duration-300 ease in transition-all rounded-lg cursor-pointer text-gray-500 py-8">
-                <h1 class="text-xl font-semibold tracking-wide">Indonesian Language</h1>
+                <h1 class="text-xl font-semibold tracking-wide">Bahasa Indonesian</h1>
             </div>
             <div class="bg-white h-12 flex shadow-lg items-center justify-center hover:bg-slate-400 hover:text-gray-200 duration-300 ease in transition-all rounded-lg cursor-pointer text-gray-500 py-8">
                 <h1 class="text-xl font-semibold tracking-wide">Aqidah</h1>
             </div>
             <div class="bg-white h-12 flex shadow-lg items-center justify-center hover:bg-slate-400 hover:text-gray-200 duration-300 ease in transition-all rounded-lg cursor-pointer text-gray-500 py-8">
-                <h1 class="text-xl font-semibold tracking-wide">Fiqh</h1>
+                <h1 class="text-xl font-semibold tracking-wide">Fiqih</h1>
             </div>
             <div class="bg-white h-12 flex shadow-lg items-center justify-center hover:bg-slate-400 hover:text-gray-200 duration-300 ease in transition-all rounded-lg cursor-pointer text-gray-500 py-8">
-                <h1 class="text-xl font-semibold tracking-wide">Natural Sciences</h1>
+                <h1 class="text-xl font-semibold tracking-wide">Sains dan Teknologi</h1>
             </div>
             <div class="bg-white h-12 flex shadow-lg items-center justify-center hover:bg-slate-400 hover:text-gray-200 duration-300 ease in transition-all rounded-lg cursor-pointer text-gray-500 py-8">
                 <h1 class="text-xl font-semibold tracking-wide">Akhlaq</h1>
@@ -35,7 +35,7 @@
         </div>
 
         <p class="mt-10 text-base md:text-center text-black md:mt-20 p-6 py-3 border w-72 border-black rounded-full mx-auto cursor-pointer hover:bg-black hover:text-white duration-300 ease in transition-all">
-            and, More Leasson...</p>
+            dan Pelajaran Lainya...</p>
     </div>
 </section>
 </template>

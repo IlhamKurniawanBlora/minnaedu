@@ -3,13 +3,13 @@
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-5xl lg:text-center flex flex-col justify-center items-center">
       <h2 class="text-base font-semibold leading-7 text-slate-100 px-3  uppercase mb-4 lg:mb-8">
-        <span class="px-3 rounded-l-lg bg-[#FC56A7]">about</span> 
-        <span class="px-3 rounded-r-lg bg-[#99C04A]">us</span>
+        <span class="px-3 rounded-l-lg bg-[#FC56A7]">Tentang</span> 
+        <span class="px-3 rounded-r-lg bg-[#99C04A]">Kami</span>
       </h2>
       <h1 class="lg:text-7xl text-4xl md:text-5xl font-bold tracking-tight text-gray-900 text-center"><span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education </span>
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-600 via-green-400 to-red-400">Is Best Solutions</span>
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-600 via-green-400 to-red-400">Solusi Les"an Terbaik</span>
       </h1>
-      <p class="mt-6 text-md text-gray-600 max-w-lg text-center">At <span class="font-bold">Minna Education</span>, we offer comprehensive academic support, personalized instruction, and practical exam strategies. We prioritize the spiritual growth of <span class="font-bold">Muslim students</span> by integrating Islamic teachings, fostering strong moral foundations alongside <span class="font-bold">Academic Achievements</span>. Join us for a holistic education nurturing both mind and soul.</p>
+      <p class="mt-6 text-md text-gray-600 max-w-lg text-center">Di <span class="font-bold">Minna Education</span>, kami menawarkan dukungan akademis yang komprehensif, pengajaran yang dipersonalisasi, dan strategi ujian praktik. Kami memprioritaskan pertumbuhan spiritual <span class="font-bold">Muslim Students</span> dengan mengintegrasikan ajaran Islam, memupuk landasan moral yang kuat di sampingnya<span class="font-bold">Academic Achievements</span>. Bergabunglah dengan kami untuk pendidikan Islami yang membina kecerdasan dan akhlak anak anak.</p>
     </div>
     <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
       <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
@@ -20,7 +20,7 @@
                 stroke="currentColor" aria-hidden="true" class="h-6 w-6 text-white">
                 <path stroke-linecap="round" stroke-linejoin="round"
                   d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z"></path>
-              </svg></div>Customized Coverage Plans
+              </svg></div>Paket Cakupan yang Disesuaikan
           </dt>
           <dd class="mt-2 text-base leading-7 text-gray-600">Tailor your insurance coverage to match your unique needs.
             Our customizable plans ensure you only pay for the coverage that matters most to you.</dd>

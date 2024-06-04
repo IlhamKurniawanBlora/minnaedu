@@ -11,45 +11,45 @@
       <div
         class="border p-7 rounded-xl bg-neutral-900 drop-shadow-md border-neutral-800/50 col-span-2 flex flex-col gap-y-10 justify-between">
         <div class="flex flex-col gap-y-3.5">
-          <p class="font-bold text-xl text-white">Academic Improvement</p>
-          <p class="font-medium text-white">"Minna Education has helped my child improve his academic scores. I have seen significant progress."</p>
+          <p class="font-bold text-xl text-white">Peningkatan Akademik</p>
+          <p class="font-medium text-white">“Minna Education telah membantu anak saya meningkatkan nilai akademisnya. Saya telah melihat kemajuan yang signifikan.”</p>
         </div>
         <div class="flex flex-col"><img src="https://randomuser.me/api/portraits/women/43.jpg" alt="Emily Smith" class="h-10 w-10">
           <p class="pt-2 text-sm font-semibold text-white">Lilis Suliyanti</p>
-          <p class="text-sm font-medium text-slate-100/70">Asfiya Parent</p>
+          <p class="text-sm font-medium text-slate-100/70">Ibu adinda Asfiya</p>
         </div>
       </div>
       <div
         class="border p-7 rounded-xl bg-neutral-900 drop-shadow-md border-neutral-800/50 col-span-3 flex flex-col gap-y-10 justify-between">
         <div class="flex flex-col gap-y-3.5">
-          <p class="font-bold text-xl text-white">Increased Confidence</p>
-          <p class="font-medium text-white">"The lessons provided have greatly helped my child understand the school subjects. My child is now more confident in facing exams."</p>
+          <p class="font-bold text-xl text-white">Peningkatan Kepercayaan Diri</p>
+          <p class="font-medium text-white">“Pelajaran yang diberikan sangat membantu anak saya memahami mata pelajaran sekolah. Anak saya sekarang lebih percaya diri dalam menghadapi ujian.”</p>
         </div>
         <div class="flex flex-col"><img src="https://randomuser.me/api/portraits/men/34.jpg" alt="Michael Johnson" class="h-10 w-10">
           <p class="pt-2 text-sm font-semibold text-white">Sulaiman Rahman</p>
-          <p class="text-sm font-medium text-slate-100/70">Rina Parent</p>
+          <p class="text-sm font-medium text-slate-100/70">Ayah Adinda Rina</p>
         </div>
       </div>
       <div
         class="border p-7 rounded-xl bg-neutral-900 drop-shadow-md border-neutral-800/50 col-span-3 flex flex-col gap-y-10 justify-between">
         <div class="flex flex-col gap-y-3.5">
-          <p class="font-bold text-xl text-white">Comprehensive Learning</p>
-          <p class="font-medium text-white">"I am very pleased with the approach used by Minna Education. My child not only learns general subjects but also Islamic religious values."</p>
+          <p class="font-bold text-xl text-white">Pembelajaran Komprehensif</p>
+          <p class="font-medium text-white">“Saya sangat senang dengan pendekatan yang dilakukan Minna Education. Anak saya tidak hanya mempelajari mata pelajaran umum tetapi juga nilai-nilai agama Islam.”</p>
         </div>
         <div class="flex flex-col"><img src="https://randomuser.me/api/portraits/women/71.jpg" alt="Sarah Brown" class="h-10 w-10">
           <p class="pt-2 text-sm font-semibold text-white">Rosmary</p>
-          <p class="text-sm font-medium text-slate-100/70">Farhan Parent</p>
+          <p class="text-sm font-medium text-slate-100/70">Bunda ananda Farhan</p>
         </div>
       </div>
       <div
         class="border p-7 rounded-xl bg-neutral-900 drop-shadow-md border-neutral-800/50 col-span-2 flex flex-col gap-y-10 justify-between">
         <div class="flex flex-col gap-y-3.5">
-          <p class="font-bold text-xl text-white">Interactive and Fun Methods</p>
-          <p class="font-medium text-white">"My child enjoys every learning session at Minna Education. The teaching methods are interactive and fun."</p>
+          <p class="font-bold text-xl text-white">Metode Interaktif dan Menyenangkan</p>
+          <p class="font-medium text-white">“Anak saya menikmati setiap sesi pembelajaran di Minna Education. Metode pengajarannya interaktif dan menyenangkan."</p>
         </div>
         <div class="flex flex-col"><img src="https://randomuser.me/api/portraits/men/71.jpg" alt="James White" class="h-10 w-10">
           <p class="pt-2 text-sm font-semibold text-white">Janaka Soleh</p>
-          <p class="text-sm font-medium text-slate-100/70">Zaki Parent</p>
+          <p class="text-sm font-medium text-slate-100/70">Ayah ananda Zaki</p>
         </div>
       </div>
     </div>

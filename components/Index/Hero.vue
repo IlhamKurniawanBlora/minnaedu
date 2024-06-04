@@ -16,19 +16,19 @@
             <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl">
             <div class="mt-6 sm:mt-8">
               <a href="#" class="inline-flex space-x-6">
-                <span class="rounded-full bg-indigo-500/10 px-3 py-1 text-sm font-semibold leading-6 text-cyan-500 ring-1 ring-inset ring-indigo-500/20">What's Different</span>
-                <span class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-300">
-                  <span>About us</span>
+                <span class="rounded-full bg-indigo-500/10 px-3 py-1 text-sm font-semibold leading-6 text-cyan-500 ring-1 ring-inset ring-indigo-500/20">Info Terabaru</span>
+                <span class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-500">
+                  <span>Tentang Kami</span>
                   <LogoArrowside />
                 </span>
               </a>
             </div>
             <h1 class="mt-10 text-4xl font-bold tracking-tight text-black uppercase"><span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education </span></h1>
-            <h1 class="mt-2 text-4xl font-bold tracking-tight text-black uppercase">" Fun Learning and Smart Thinking "</h1>
-            <p class="mt-6 text-lg leading-8 text-gray-300">innovative approach that combines enjoyable learning with intelligent thinking to create dynamic and sustainable educational experiences...</p>
+            <h1 class="mt-2 text-2xl font-bold tracking-tight text-black uppercase">"Fun Learning and Smart Thinking"</h1>
+            <p class="mt-6 text-lg leading-8 text-gray-600">Pendekatan inovatif yang menggabungkan pembelajaran yang menyenangkan dengan aktivitas cerdas, menciptakan pengalaman pendidikan yang seru dan berkelanjutan untuk Generasi Emas Indonesia</p>
             <div class="mt-10 flex items-center gap-x-6">
-              <a href="#" class="rounded-md bg-orange-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Join Us</a>
-              <a href="#" class="text-sm font-semibold leading-6 text-white">Learn more <span aria-hidden="true">→</span></a>
+              <a href="#" class="rounded-md bg-[#FC56A7] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#99C04A] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Daftar Sekarang</a>
+              <a href="#" class="text-sm font-semibold leading-6 text-slate-800 hover:text-slate-500">Lihat Selengkapnya<span aria-hidden="true">→</span></a>
             </div>
           </div>
           </div>

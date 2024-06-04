@@ -3,10 +3,10 @@
         <div class="flex flex-wrap justify-center items-center mx-auto max-w-screen-lg">
           <div class="text-center py-12 ">
               <h2 class="text-base font-bold text-indigo-600">
-                  We have the best Tutors and Teachers
+                Kami memiliki Tutor dan Guru terbaik
               </h2>
               <h1 class="font-bold text-3xl md:text-4xl lg:text-5xl font-heading text-gray-900">
-                <span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education</span> Tutors and Teachers
+                <span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education</span>Guru Dan Tutor Handal
               </h1>
           </div>
         </div>

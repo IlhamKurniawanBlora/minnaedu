@@ -6,13 +6,13 @@
                 <h2 class="text-2xl font-bold text-gray-800 lg:text-3xl dark:text-white"><span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education</span></h2>
 
                 <p class="hidden max-w-screen-sm text-gray-500 dark:text-gray-300 md:block">
-                    The learning and teaching activities at Minna Education are engaging and enjoyable. Here is the photo gallery.
+                    Kegiatan belajar dan mengajar di Minna Education menarik dan menyenangkan. Berikut galeri fotonya.
                 </p>
             </div>
 
             <a href="#"
                 class="inline-block rounded-lg border bg-white dark:bg-gray-700 dark:border-none px-4 py-2 text-center text-sm font-semibold text-gray-500 dark:text-gray-200 outline-none ring-indigo-300 transition duration-100 hover:bg-gray-100 focus-visible:ring active:bg-gray-200 md:px-8 md:py-3 md:text-base">
-                More
+                Selebihnya
             </a>
         </div>
 
@@ -25,7 +25,7 @@
                     class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
                 </div>
 
-                <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Nature Study</span>
+                <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Belajar dengan Alam</span>
             </a>
           
             <a href="#"
@@ -36,7 +36,7 @@
                     class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
                 </div>
 
-                <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Quran Study</span>
+                <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Belajar Quran</span>
             </a>
           
             <a href="#"
@@ -47,7 +47,7 @@
                     class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
                 </div>
 
-                <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Fun Study</span>
+                <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Belajar dengan Bahagia</span>
             </a>
           
             <a href="#"
@@ -58,7 +58,7 @@
                     class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
                 </div>
 
-                <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Creative Study</span>
+                <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Belajar dengan Kreatif</span>
             </a>
         </div>
     </div>

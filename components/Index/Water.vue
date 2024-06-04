@@ -6,10 +6,10 @@
 
         <div class="text-center">
 
-            <h2 class="font-semibold text-3xl mb-3">Open for Sponsorship and Collaboration</h2>
+            <h2 class="font-semibold text-3xl mb-3">Terbuka untuk Sponsor dan Kolaborasi</h2>
 
             <p class="max-w-md mx-auto mt-2 text-slate-200">
-                "Partner with <span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education</span> for impactful collaboration! Together, let's empower students with quality education and Islamic values. Join us in shaping a brighter future today!"
+                "Bermitra dengan <span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education</span> untuk kolaborasi yang berdampak! Mari kita bersama-sama memberdayakan siswa dengan pendidikan berkualitas dan nilai-nilai Islam. Bergabunglah dengan kami dalam membentuk masa depan yang lebih cerah hari ini!"
             </p>
 
         </div>

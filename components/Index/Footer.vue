@@ -4,9 +4,9 @@
   <div class="container mx-auto px-4">
     <div class="flex flex-wrap text-left lg:text-left">
       <div class="w-full lg:w-6/12 px-4">
-        <h4 class="text-3xl font-semibold text-blueGray-700">Let's keep in touch!</h4>
+        <h4 class="text-3xl font-semibold text-blueGray-700">Mari menjalin Silaturahmi!</h4>
         <h5 class="text-lg mt-0 mb-2 text-blueGray-600">
-          We're here to help and answer any question you might have. We look forward to hearing from you.
+          Kami di sini untuk membantu dan menjawab pertanyaan apa pun yang Anda miliki. Kami menantikan kabar dari Anda.
         </h5>
         <div class="mt-6 lg:mb-0 mb-6 flex flex-wrap lg:justify-start md:justify-start justify-center gap-5">
           <a href="https://api.whatsapp.com/send?phone=6287764848768" target="_blank" rel="noopener noreferrer" class="bg-white text-green-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center flex rounded-full outline-none focus:outline-none mr-2">
@@ -25,19 +25,19 @@
       <div class="w-full lg:w-6/12 px-4">
         <div class="flex flex-wrap items-top items-between justify-between mb-6">
           <div class="w-1/2 lg:w-4/12 px-4 ml-auto">
-            <span class="block uppercase text-blueGray-500 text-sm font-semibold mb-2">Menu Links</span>
+            <span class="block uppercase text-blueGray-500 text-sm font-semibold mb-2">Menu Utama</span>
             <ul class="list-unstyled">
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">About Us</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Tentang Kami</a>
               </li>
               <li>
                 <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Testimoial</a>
               </li>
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Galery</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Galeri</a>
               </li>
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Consultation</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Konsultasi</a>
               </li>
             </ul>
           </div>

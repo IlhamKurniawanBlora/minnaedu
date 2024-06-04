@@ -1,0 +1,104 @@
+/* src/assets/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .loading-container::before {
+      content: "";
+      position: absolute;
+      margin: 6px 0px;
+      height: 6px;
+      background: linear-gradient(to right, #99C04A, #FC56A7);
+      bottom: 0;
+      left: 0;
+      border-radius: 10px;
+      animation: movingLine 6s infinite ease-in-out;
+    }
+  
+    @keyframes movingLine {
+      0% {
+        opacity: 0;
+        width: 0;
+      }
+  
+      33.3%,
+      66% {
+        opacity: 0.8;
+        width: 100%;
+      }
+  
+      85% {
+        width: 0;
+        left: initial;
+        right: 0;
+        opacity: 1;
+      }
+  
+      100% {
+        opacity: 0;
+        width: 0;
+      }
+    }
+    .loading-text {
+      @apply text-5xl;
+      font-size: 5vw; /* Tambahkan ini untuk ukuran font responsif */
+      line-height: 64px;
+      letter-spacing: 10px;
+    }
+  
+    .loading-letter {
+      animation: moveLetters 6s infinite ease-in-out;
+      transform: translateX(0);
+      position: relative;
+      display: inline-block;
+      opacity: 0;
+    }
+  
+    .loading-letter:nth-child(1) {
+      animation-delay: 0.1s;
+    }
+    .loading-letter:nth-child(2) {
+      animation-delay: 0.2s;
+    }
+    .loading-letter:nth-child(3) {
+      animation-delay: 0.3s;
+    }
+    .loading-letter:nth-child(4) {
+      animation-delay: 0.4s;
+    }
+    .loading-letter:nth-child(5) {
+      animation-delay: 0.5s;
+    }
+    .loading-letter:nth-child(6) {
+      animation-delay: 0.6s;
+    }
+    .loading-letter:nth-child(7) {
+      animation-delay: 0.7s;
+    }
+    .loading-letter:nth-child(8) {
+      animation-delay: 0.8s;
+    }
+    .loading-letter:nth-child(9) {
+      animation-delay: 0.9s;
+    }
+  
+    @keyframes moveLetters {
+      0% {
+        transform: translateX(-15vw);
+        opacity: 0;
+      }
+  
+      33.3%,
+      66% {
+        transform: translateX(0);
+        opacity: 1;
+      }
+  
+      100% {
+        transform: translateX(15vw);
+        opacity: 0;
+      }
+    }
+  }
+  

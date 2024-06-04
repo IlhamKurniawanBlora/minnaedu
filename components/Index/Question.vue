@@ -3,7 +3,7 @@
       <div class="container mx-auto w-full rounded-2xl transparent p-2 max-w-2xl">
         <div class="max-w-2xl mx-auto text-center mb-3 lg:mb-8">
             <h2 class="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">
-                Common Questions at <span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education</span>
+                Pertanyaan yang paling sering ditanyakan di <span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education</span>
             </h2>
         </div>
         <Disclosure v-slot="{ open }">
