@@ -23,24 +23,28 @@
 </div>
 </template>
 <script setup>
-import { ref } from 'vue';
+import { ref, onMounted, onUnmounted } from 'vue';
 import { useRouter } from 'nuxt/app';
 
 const isLoading = ref(true);
 const router = useRouter();
 const loadingElement = ref(null); // Ref to hold the loading element
 
+function disableScroll() {
+  document.body.style.overflow = 'hidden';
+}
+
+function enableScroll() {
+  document.body.style.overflow = 'auto';
+}
+
 function startLoading() {
-  if (loadingElement.value) { // Check if element exists before accessing its style
-    loadingElement.value.style.overflow = 'hidden';
-  }
+  disableScroll();
   isLoading.value = true;
 
   setTimeout(() => {
     isLoading.value = false;
-    if (loadingElement.value) {
-      loadingElement.value.style.overflow = 'auto';
-    }
+    enableScroll();
     router.push('/')
       .catch((error) => {
         console.error('Navigation error:', error);
@@ -48,10 +52,12 @@ function startLoading() {
   }, 6000);
 }
 
-// Assign the element reference to the ref in mounted hook (optional)
 onMounted(() => {
   loadingElement.value = document.querySelector('#loading-container');
+  startLoading();
 });
 
-startLoading();
+onUnmounted(() => {
+  enableScroll(); // Ensure scrolling is enabled when the component is unmounted
+});
 </script>

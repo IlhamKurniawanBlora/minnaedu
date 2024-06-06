@@ -9,7 +9,7 @@
           Kami di sini untuk membantu dan menjawab pertanyaan apa pun yang Anda miliki. Kami menantikan kabar dari Anda.
         </h5>
         <div class="mt-6 lg:mb-0 mb-6 flex flex-wrap lg:justify-start md:justify-start justify-center gap-5">
-          <a href="https://api.whatsapp.com/send?phone=6287764848768" target="_blank" rel="noopener noreferrer" class="bg-white text-green-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center flex rounded-full outline-none focus:outline-none mr-2">
+          <a href="" target="_blank" rel="noopener noreferrer" class="bg-white text-green-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center flex rounded-full outline-none focus:outlihttps://api.whatsapp.com/send?phone=6287764848768ne-none mr-2">
               <LogoWhatsapp />
             </a>
           <a href="https://www.instagram.com/minnaedu/" target="_blank" rel="noopener noreferrer" class="bg-white text-red-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center flex rounded-full outline-none focus:outline-none mr-2">
@@ -28,16 +28,16 @@
             <span class="block uppercase text-blueGray-500 text-sm font-semibold mb-2">Menu Utama</span>
             <ul class="list-unstyled">
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Tentang Kami</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#tentang-kami">Tentang Kami</a>
               </li>
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Testimoial</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#testimonial">Testimoial</a>
               </li>
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Galeri</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#galeri">Galeri</a>
               </li>
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Konsultasi</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="https://api.whatsapp.com/send?phone=6287764848768">Konsultasi</a>
               </li>
             </ul>
           </div>
@@ -51,7 +51,7 @@
               </a>
             </li>
             <li class="flex items-center">
-              <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm flex items-center" href="#">
+              <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm flex items-center" href="https://api.whatsapp.com/send?phone=6287764848768" target="_blank" rel="noopener noreferrer">
                <LogoCall />
                 0877 6484 8768
               </a>
@@ -69,7 +69,7 @@
             Copyright © <span id="get-current-year">2024</span>
         </div>
         <div class="text-sm text-blueGray-500 font-semibold py-1">
-        <a href="#" class="text-blueGray-500 hover:text-blueGray-800">All Reserved</a>
+        <a href="ilhamk-portfolio.vercel.app" class="text-blueGray-500 hover:text-blueGray-800">All Reserved</a>
         </div>
     </div>
   </div>

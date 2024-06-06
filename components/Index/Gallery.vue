@@ -10,14 +10,14 @@
                 </p>
             </div>
 
-            <a href="#"
-                class="inline-block rounded-lg border bg-white dark:bg-gray-700 dark:border-none px-4 py-2 text-center text-sm font-semibold text-gray-500 dark:text-gray-200 outline-none ring-indigo-300 transition duration-100 hover:bg-gray-100 focus-visible:ring active:bg-gray-200 md:px-8 md:py-3 md:text-base">
+            <a href="https://instagram.com/minnaedu"
+                class="inline-block rounded-lg border hover:text-black hover:border-black border-2 bg-white dark:bg-gray-700 dark:border-none px-4 py-2 text-center text-sm font-semibold text-gray-500 dark:text-gray-200 ring-indigo-300 transition duration-100 hover:bg-gray-100 focus-visible:ring active:bg-gray-200 md:px-8 md:py-3 md:text-base">
                 Selebihnya
             </a>
         </div>
 
         <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:gap-6 xl:gap-8">
-            <a href="#"
+            <a href="https://instagram.com/minnaedu"
                 class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
                 <img src="../../public/ilustrasi/kid_healing.jpg" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
@@ -28,7 +28,7 @@
                 <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Belajar dengan Alam</span>
             </a>
           
-            <a href="#"
+            <a href="https://instagram.com/minnaedu"
                 class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80">
                 <img src="../../public/ilustrasi/kid_ngaji.jpg" loading="lazy" alt="Photo by Magicle" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
@@ -39,7 +39,7 @@
                 <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Belajar Quran</span>
             </a>
           
-            <a href="#"
+            <a href="https://instagram.com/minnaedu"
                 class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80">
                 <img src="../../public/ilustrasi/kid_leraning.jpg" loading="lazy" alt="Photo by Martin Sanchez" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
@@ -50,7 +50,7 @@
                 <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Belajar dengan Bahagia</span>
             </a>
           
-            <a href="#"
+            <a href="https://instagram.com/minnaedu"
                 class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
                 <img src="../../public/ilustrasi/kid_drawing.jpg" loading="lazy" alt="Photo by Lorenzo Herrera" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 

@@ -2,7 +2,10 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      // Tambahkan ini untuk mengaktifkan scroll smooth
+      scrollBehavior: ['smooth'],
+    },
   },
   plugins: [],
 }

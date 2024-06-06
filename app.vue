@@ -1,16 +1,32 @@
 <template>
-  <CustomLoading v-if="isLoading"/>
+  <Transition name="fade">
+    <CustomLoading v-if="isLoading"/>
+  </Transition>
   <div>
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
   </div>
 </template>
+<style>
+html {
+  scroll-behavior: smooth;
+}
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 0.5s ease;
+}
 
+.fade-enter-from, .fade-leave-to {
+  opacity: 0;
+}
+</style>
 <script setup>
  import { ref } from 'vue';
 
 const isLoading = ref(true);
+setTimeout(() => {
+  loading.value = false;
+}, 2000);
 useHead({
   title: 'Minna Education | Learning Center ',
   meta: [
