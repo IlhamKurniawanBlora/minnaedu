@@ -58,7 +58,7 @@ interface Guru {
   linkwhatsapp: string;
   linkinstagram: string;
   alt: string;
-  img?: string;
+  img: string;
 }
 
 const gurus = ref<Guru[]>([
