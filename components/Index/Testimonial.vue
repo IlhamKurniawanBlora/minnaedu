@@ -78,7 +78,7 @@ const ortus = ref<Ortu[]>([
 // Fungsi untuk menentukan kelas berdasarkan index
 const getClass = (index: number) => {
   if (index === 1 || index === 2) {
-    return 'lg:col-span-3'; // Kelas khusus untuk elemen 2 dan 3
+    return 'lg:col-span-3 col-span-2'; // Kelas khusus untuk elemen 2 dan 3
   }
   return 'col-span-2'; // Kelas standar untuk elemen lainnya
 };
