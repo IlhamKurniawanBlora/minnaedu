@@ -37,7 +37,7 @@ interface Ortu {
   judul: string;
   komentar: string;
   alt: string;
-  img?: string;
+  img: string;
 }
 
 const ortus = ref<Ortu[]>([
@@ -47,7 +47,7 @@ const ortus = ref<Ortu[]>([
     judul: 'Peningkatan Akademik',
     komentar: 'Minna Education telah membantu anak saya meningkatkan nilai akademisnya. Saya telah melihat kemajuan yang signifikan.',
     alt: 'Lilis Suliyanti',
-    img: '_nuxt/public/images/boy_1.jpg'
+    img: '_nuxt/public/images/boy_2.jpg'
   },
   {
     nama: 'Sulaiman Rahman',
@@ -63,7 +63,7 @@ const ortus = ref<Ortu[]>([
     judul: 'Pembelajaran Komprehensif',
     komentar: 'Saya sangat senang dengan pendekatan yang dilakukan Minna Education. Anak saya tidak hanya mempelajari mata pelajaran umum tetapi juga nilai-nilai agama Islam.',
     alt: 'Bunda ananda Farhan',
-    img: '_nuxt/public/images/girl_1.jpg'
+    img: '_nuxt/public/images/boy_3.jpg'
   },
   {
     nama: 'Janaka Soleh',
