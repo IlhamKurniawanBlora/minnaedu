@@ -69,7 +69,7 @@ const gurus = ref<Guru[]>([
     linkwhatsapp: 'https://wa.me/',
     linkinstagram: 'https://www.instagram.com/',
     alt: 'minna education',
-    img: '_nuxt/public/images/boy_5.jpg'
+    img: '@/public/images/boy_5.jpg'
   },
   {
     nama: 'Minna Education',
@@ -78,7 +78,7 @@ const gurus = ref<Guru[]>([
     linkwhatsapp: 'https://wa.me/',
     linkinstagram: 'https://www.instagram.com/',
     alt: 'minna education',
-    img: '_nuxt/public/images/boy_3.jpg'
+    img: '@/public/images/boy_3.jpg'
   },
   {
     nama: 'Minna Education',
@@ -87,7 +87,7 @@ const gurus = ref<Guru[]>([
     linkwhatsapp: 'https://wa.me/',
     linkinstagram: 'https://www.instagram.com/',
     alt: 'minna education',
-    img: '_nuxt/public/images/kid_2.jpg'
+    img: '@/public/images/kid_2.jpg'
   },
   {
     nama: 'Minna Education',
@@ -96,7 +96,7 @@ const gurus = ref<Guru[]>([
     linkwhatsapp: 'https://wa.me/',
     linkinstagram: 'https://www.instagram.com/',
     alt: 'minna education',
-    img: '_nuxt/public/images/kid_3.jpg'
+    img: '@/public/images/kid_3.jpg'
   },
   
 ]);
