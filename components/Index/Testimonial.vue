@@ -47,7 +47,7 @@ const ortus = ref<Ortu[]>([
     judul: 'Peningkatan Akademik',
     komentar: 'Minna Education telah membantu anak saya meningkatkan nilai akademisnya. Saya telah melihat kemajuan yang signifikan.',
     alt: 'Lilis Suliyanti',
-    img: '_nuxt/public/images/boy_2.jpg'
+    img: '@/public/images/boy_2.jpg'
   },
   {
     nama: 'Sulaiman Rahman',
@@ -55,7 +55,7 @@ const ortus = ref<Ortu[]>([
     judul: 'Peningkatan Kepercayaan Diri',
     komentar: 'Pelajaran yang diberikan sangat membantu anak saya memahami mata pelajaran sekolah. Anak saya sekarang lebih percaya diri dalam menghadapi ujian.',
     alt: 'Ayah Adinda Rina',
-    img: '_nuxt/public/images/boy_2.jpg'
+    img: '@/public/images/boy_2.jpg'
   },
   {
     nama: 'Rosmary',
@@ -63,7 +63,7 @@ const ortus = ref<Ortu[]>([
     judul: 'Pembelajaran Komprehensif',
     komentar: 'Saya sangat senang dengan pendekatan yang dilakukan Minna Education. Anak saya tidak hanya mempelajari mata pelajaran umum tetapi juga nilai-nilai agama Islam.',
     alt: 'Bunda ananda Farhan',
-    img: '_nuxt/public/images/boy_3.jpg'
+    img: '@/public/images/boy_3.jpg'
   },
   {
     nama: 'Janaka Soleh',
@@ -71,7 +71,7 @@ const ortus = ref<Ortu[]>([
     judul: 'Metode Interaktif dan Menyenangkan',
     komentar: 'Anak saya menikmati setiap sesi pembelajaran di Minna Education. Metode pengajarannya interaktif dan menyenangkan.',
     alt: 'Ayah ananda Zaki',
-    img: '_nuxt/public/images/boy_3.jpg'
+    img: '@/public/images/boy_3.jpg'
   }  
 ]);
 
