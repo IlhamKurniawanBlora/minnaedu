@@ -11,7 +11,7 @@
           <h1 class="lg:text-7xl text-4xl md:text-5xl font-bold tracking-tight text-gray-900 text-center"><span class="text-[#FC56A7]">Minna</span> <span class="text-[#99C04A]">Education </span>
             <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-600 via-green-400 to-red-400">Solusi Les"an Terbaik</span>
           </h1>
-          <p class="mt-6 text-md text-gray-600 max-w-lg text-center">Di <span class="font-bold">Minna Education</span>, kami menawarkan dukungan akademis yang komprehensif, pengajaran yang dipersonalisasi, dan strategi ujian praktik. Kami memprioritaskan pertumbuhan spiritual <span class="font-bold">Muslim Students</span> dengan mengintegrasikan ajaran Islam, memupuk landasan moral yang kuat di sampingnya<span class="font-bold">Academic Achievements</span>. Bergabunglah dengan kami untuk pendidikan Islami yang membina kecerdasan dan akhlak anak anak.</p>
+          <p class="mt-6 text-md text-gray-600 max-w-lg text-center">Di <span class="font-bold">Minna Education</span>, kami menawarkan dukungan akademis yang komprehensif, pengajaran yang dipersonalisasi, dan strategi ujian praktik. Kami memprioritaskan pertumbuhan spiritual <span class="font-bold">Muslim Students</span> dengan mengintegrasikan ajaran Islam, memupuk landasan moral yang kuat di sampingnya<span class="font-bold"> Academic Achievements</span>. Bergabunglah dengan kami untuk pendidikan Islami yang membina kecerdasan dan akhlak anak anak.</p>
         </div>
         <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
           <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
